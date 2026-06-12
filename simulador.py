@@ -16,3 +16,5 @@ def calcular_investimento(capital_inicial, taxa_anual, meses):
 
 resultado_teste = calcular_investimento(1000, 10.75, 12)
 print(resultado_teste)
+
+Teste de Sincronização com repositório local
